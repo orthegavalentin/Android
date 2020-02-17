@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tp1</string>
+    <string name="nom">NOM</string>
+    <string name="prenom">PRENOM</string>
+    <string name="age">AGE</string>
+    <string name="Domaine">DOMAINE DE COMPETENCES</string>
+    <string name="phone">NUMERO DE TELEPHONE</string>
+    <string name="valider">VALIDER</string>
+
+
+    <string-array name="DomaineCompetence">
+
+        <item>c++</item>
+        <item>java</item>
+        <item>Android</item>
+        <item>Algorithimique</item>
+
+
+    </string-array>
+</resources>
